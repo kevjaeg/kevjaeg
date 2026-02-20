@@ -10,9 +10,7 @@
 - 👯 I am looking for collaboration opportunities in innovative solutions within AI and Cloud Computing.
   
 - 💬 Feel free to ask me about automation and the development of CI/CD pipelines, cloud, and container technologies.
-  
-- 📫 Contact: kevinjaegle@outlook.de
-  
+
 - ⚡ Fun Fact: I have a passion for cutting-edge technology and love discovering new advancements in AI.
 
 
